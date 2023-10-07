@@ -1,0 +1,50 @@
+.nav{
+    background-color: black;
+    overflow: hidden;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+.nav a{
+    float: left;
+    display: block;
+    color: burlywood;
+    padding: 14px 16px;
+    text-decoration: dotted;
+}
+.nav a:hover{
+    background-color: #857158;
+    color: burlywood;
+    text-align: center;
+}
+#Home{
+    background-image:url("pngtree-note-music-logo-watercolor-background-picture-image_1589075.jpg");
+    font-family: 'Alkatra', cursive;
+font-family: 'Borel', cursive;
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'PT Serif', serif;
+background-size: cover;
+}
+.footer{
+    color:black;
+    background-color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#MusicCourses{
+    background-image:url("pngtree-note-music-logo-watercolor-background-picture-image_1589075.jpg");
+}
+#AllAboutMusic{
+    background-image: url("pngtree-note-music-logo-watercolor-background-picture-image_1589075.jpg");
+}
+#MusicClips{
+    background-image:url("pngtree-note-music-logo-watercolor-background-picture-image_1589075.jpg");
+    text-align: center;
+}
+#LearnSongs{
+    background-image:url("pngtree-note-music-logo-watercolor-background-picture-image_1589075.jpg");
+}
+table{
+    width: 100%;
+}
